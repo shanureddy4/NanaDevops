@@ -16,5 +16,4 @@ testing rebase on remote
 changes made remotely
 
 changes made on local
-some changes
-some other changes
+
